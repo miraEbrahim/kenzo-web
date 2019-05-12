@@ -34,10 +34,7 @@
 nbproject
 Thumbs.db
 
-# Komodo
-.komodotools
-*.komodoproject
+
 
 # Folders to ignore
-/js/coverage/
 /node_modules/

@@ -22,5 +22,9 @@
   "homepage": "https://github.com/miraEbrahim/kenzo-web#readme",
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.8.2"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
   }
 }
