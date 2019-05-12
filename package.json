@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/miraEbrahim/kenzo-web/issues"
   },
-  "homepage": "https://github.com/miraEbrahim/kenzo-web#readme"
+  "homepage": "https://github.com/miraEbrahim/kenzo-web#readme",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.2"
+  }
 }
