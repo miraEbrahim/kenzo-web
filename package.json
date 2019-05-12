@@ -1,0 +1,23 @@
+{
+  "name": "kenzo-web",
+  "version": "1.0.0",
+  "description": "Restaurant's profitable hour of the day HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miraEbrahim/kenzo-web.git"
+  },
+  "keywords": [
+    "javascript",
+    "html"
+  ],
+  "author": "Maryam Ebrahim <mxebrahim@gmail.com> (http://miraebrahim.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miraEbrahim/kenzo-web/issues"
+  },
+  "homepage": "https://github.com/miraEbrahim/kenzo-web#readme"
+}
