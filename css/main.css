@@ -1,0 +1,30 @@
+header{
+    height: 50px; 
+    width: 100%; 
+    background-color: #333; 
+    text-align: center
+
+}
+h1 {
+    color: white
+}
+
+aside {
+    width: 100%; 
+    height: auto; 
+    border: 1px solid;
+}
+
+section {
+    width: 100%; 
+    height: auto; 
+    border: 1px solid;
+    background-color: #ff4081;
+}
+
+footer {
+    width: 100%; 
+    height: auto; 
+    border: 1px solid;
+    background-color: #ff666f;
+}

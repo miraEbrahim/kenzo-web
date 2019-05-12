@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "jquery": "^3.4.1",
+    "live-server": "^1.2.1",
     "popper.js": "^1.15.0"
   }
 }
